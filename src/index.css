@@ -1,4 +1,4 @@
-body {
+/*body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,45 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}*/
+
+body{
+  background-color: rgb(25, 5, 36);
 }
+
+.frontpage-background {
+  background-image: url('logo11.png'); /* Replace with your image URL */
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+  width: 4250px; /* Full viewport width */
+  height: 680px; /* Full viewport height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  overflow: hidden; /* Prevent overflow */
+}
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #f0c674; /* Gold-like color */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6); /* Enhanced shadow for depth */
+  margin-left: 10px;
+}
+
+.navbar-brand:hover {
+  color: #ffd700; /* Slightly brighter gold on hover */
+  text-decoration: none;
+}
+
+.logo{
+  height: 40px;
+  width: 50px;
+  mix-blend-mode:color-dodge;
+}
+

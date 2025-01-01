@@ -1,0 +1,8 @@
+ * 
+ useState : koi b data store kar skta h n hum lyk ise chng b kr sktee h n react is chng ko detect krtaa hai aur cheezo ko jldii se UI pe update krke dikhaa detaa haii
+for ex : if their is a value first n apkoo chng krnaa h to vo chng apko directly screen pe dikhaayi degaa.
+const [first, setfirst] = useState(second)
+
+
+*
+useEffect : agr apko koi fnctn initially call krnaa hai ya kch call krna h toh the moment u entered the application toh hum ise use kr sktee haii
