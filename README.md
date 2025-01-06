@@ -3,6 +3,9 @@
 ## Overview
 This project is a React-based music app that allows users to explore, play, and manage their favorite songs. It uses modern React features and hooks to create an intuitive, dynamic music player experience. The app is designed to be fast, responsive, and easy to use, offering features like song search, playback control, and more.
 
+# Demo 
+You can see the live demo here : https://vmusic-app.netlify.app/
+
 ## Features
 Music Search: Search for songs, albums, or artists using an integrated music API.
 Music Player: Play, pause, skip, and control volume for individual tracks.
