@@ -64,5 +64,7 @@ Axios for API requests
 Music API for fetching song data
 Font Awesome for icons 
 
+# NOte : If the project shows runtime error just refresh the page and search again . The project will run
+
 
 
