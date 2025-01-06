@@ -10,8 +10,6 @@ Responsive Design: Optimized for mobile, tablet, and desktop devices.
 Song Details: View album artwork, artist information, and song metadata.
 State Management: Efficient state management using React Hooks and Context API (if implemented).
 
-# Demo
-Check out the live demo of the app here : 
 
 # Technologies Used
 React: Core library for building the user interface.
@@ -25,7 +23,7 @@ Context API/Redux (optional): For global state management.
 Follow these steps to run the project locally on your machine:
 
 Clone this repository:
-git clone https://github.com/yourusername/react-music-app.git
+git clone https://github.com/Priyanshii573/Music-App.git
 
 Navigate to the project folder:
 cd react-music-app
